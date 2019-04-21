@@ -1,0 +1,3 @@
+imageio
+pyqt4
+PyInstaller
